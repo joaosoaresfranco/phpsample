@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example for Syone</h2>
           <p>
-            <img src="syone.png">
+            <img src="syone.png" align="center">
           </p>
         </div>
       </div>
