@@ -88,9 +88,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Example for Syone</h2>
+          <h2>Application Example for ELM</h2>
           <p>
-            <img src="syone.png">
+            <img src="logo-elm.png">
           </p>
         </div>
       </div>
