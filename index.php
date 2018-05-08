@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example for ELM</h2>
           <p>
-            <img src=logo-elm.png" align="center">
+            <img src="logo-elm.png">
           </p>
         </div>
       </div>
